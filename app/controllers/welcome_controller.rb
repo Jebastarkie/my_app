@@ -1,7 +1,7 @@
 class WelcomeController < ApplicationController
 	def hellopage
 	end
-	def page2
+	def aboutpage
 	end
 	def webapppage
 	end

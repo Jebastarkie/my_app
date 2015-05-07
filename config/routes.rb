@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   root 'welcome#hellopage'
-  get 'welcome/page2'
+  get 'welcome/about'
   get 'welcome/webapppage'
   get 'welcome/gitpage'
   get 'welcome/herokupage'
